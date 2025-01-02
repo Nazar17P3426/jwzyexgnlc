@@ -1,2 +1,2 @@
 # jwzyexgnlc
-C++ GDI trojan by pankoza
+made by pankoza
